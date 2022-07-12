@@ -195,10 +195,6 @@ body {
     .form {
         margin-top: 20rem;
     }
-    .form-header {
-        margin-bottom: 0;
-        padding-bottom: 20px;
-    }
     .input-group {
         flex-direction: column;
         flex-wrap: nowrap;
