@@ -200,8 +200,11 @@ body {
         flex-wrap: nowrap;
         padding-right: 5rem;
     }
+    .input-box input {
+        padding: 0.8rem 2.2rem;
+    }
     .gender-inputs {
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
     .gender-group {
         flex-direction: column;
