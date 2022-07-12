@@ -192,11 +192,16 @@ body {
         width: 90%;
         height: auto;
     }
+    .form {
+        margin-top: 50px ;
+    }
+    .form-header {
+        margin-bottom: 0;
+        padding-bottom: 20px;
+    }
     .input-group {
         flex-direction: column;
-        overflow-y: scroll;
         flex-wrap: nowrap;
-        max-height: 10rem;
         padding-right: 5rem;
     }
     .gender-inputs {
