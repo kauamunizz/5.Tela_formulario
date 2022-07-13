@@ -193,7 +193,7 @@ body {
         height: auto;
     }
     .form {
-        padding-top: 20rem;
+        margin-top: 20rem;
     }
     .input-group {
         flex-direction: column;
