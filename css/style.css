@@ -195,17 +195,16 @@ body {
     .form {
         margin-top: 20rem;
     }
-    .form-header {
-        margin-bottom: 0;
-        padding-bottom: 20px;
-    }
     .input-group {
         flex-direction: column;
         flex-wrap: nowrap;
         padding-right: 5rem;
     }
+    .input-box input {
+        padding: 0.8rem 2.2rem;
+    }
     .gender-inputs {
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
     .gender-group {
         flex-direction: column;
