@@ -193,15 +193,12 @@ body {
         height: auto;
     }
     .form {
-        margin-top: 20rem;
+        padding-top: 20rem;
     }
     .input-group {
         flex-direction: column;
         flex-wrap: nowrap;
         padding-right: 5rem;
-    }
-    .input-box input {
-        padding: 0.8rem 2.2rem;
     }
     .gender-inputs {
         margin-top: 1rem;
